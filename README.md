@@ -13,19 +13,25 @@
 
 ### 🤝 Collaboration & Interests
 - 👯 Open to collaborate on: **Web Dev projects & cool open-source ideas**  
-- 🤔 Looking for guidance in: **AI, machine learning & project structuring**  
+- 🤔 Looking for guidance in: **AI, machine learning & project structuring**
+
+---
 
 ### 📫 Connect with Me
 - ✉️ Email: *mohantashreya09@gmail.com*  
 - 🌐 Portfolio (soon 🚧)  
-- 💼 LinkedIn: *www.linkedin.com/in/shreya-mohanta*  
+- 💼 LinkedIn: *www.linkedin.com/in/shreya-mohanta*
+  
+--- 
 
 ### 😄 Pronouns
-- She/Her 🌸  
+- She/Her 🌸
+  
+---
 
 ✨ *“Code, Coffee & Creativity keep me alive!”* ☕💡
 
-
+---
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shreya-mohanta) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/sherayaah) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohantashreya09@gmail.com) 
 
