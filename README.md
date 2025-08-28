@@ -12,7 +12,7 @@
 ---
 
 ### 🤝 Collaboration & Interests
-- 👯 Open to collaborate on: **Web Dev projects, AI/ML experiments, and cool open-source ideas**  
+- 👯 Open to collaborate on: **Web Dev projects & cool open-source ideas**  
 - 🤔 Looking for guidance in: **AI, machine learning & project structuring**  
 
 ### 📫 Connect with Me
