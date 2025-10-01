@@ -1,6 +1,6 @@
 # Hi there, I'm Shreya! 👋✨  
 
-💻 **Computer Science Student | Future Java Full Stack Developer | DevOps Enthusiast**  
+💻 **Computer Science Student | Ongoing Full Stack Developer | DevOps Enthusiast**  
 
 ---
 
