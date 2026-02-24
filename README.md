@@ -5,7 +5,7 @@
 ┊ ◦
 ★⋆      ┊ .  ˚
            ˚★.𖥔 ݁ ˖ִ ࣪⚝₊ ⊹˚
-# Hi there, I'm Shreya 𐔌՞. .՞𐦯 ⠀
+# hi there, i'm shreya 𐔌՞. .՞𐦯 ⠀
 
 💻 **Computer Science Student | Ongoing Full Stack Developer | DevOps Enthusiast**  
 
