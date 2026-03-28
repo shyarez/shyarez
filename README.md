@@ -12,15 +12,16 @@
 ---
 
 ### ⟡ About Me
-- 𖥔 **CSE student** exploring the world of code & creativity  
-- 𖥔 Love building **gamified & aesthetic projects**  
+- 𖥔 **CSE student** focused on building strong development fundamentals  
+- 𖥔 Love building **real-time working applications**  
 - 𖥔 Passionate about tech that **makes life easier & fun**  
 
 ---
 
 ### ⟡ Collaboration & Interests
-- 𖥔 Open to collaborate on: **Web Dev projects & cool open-source ideas**  
-- 𖥔 Looking for guidance in: **AI, machine learning & project structuring**
+- 𖥔 Open to collaborate on: **Web Dev projects & cool open-source ideas**
+- 𖥔 Currently exploring: **Backend development (Python, FastAPI)**  
+- 𖥔 Interested in: **AI, machine learning & project structuring**
 
 ---
 
