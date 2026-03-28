@@ -7,7 +7,7 @@
            ˚★.𖥔 ݁ ˖ִ ࣪⚝₊ ⊹˚
 # hi there, i'm shreya 𐔌՞. .՞𐦯 ⠀
 
-💻 **Computer Science Student | Ongoing Full Stack Developer | DevOps Enthusiast**  
+💻 **SDE | React Developer | Backend (Python, FastAPI – in progress) | Exploring Cybersecurity**  
 
 ---
 
