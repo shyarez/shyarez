@@ -5,7 +5,7 @@
 ┊ ◦
 ★⋆      ┊ .  ˚
            ˚★.𖥔 ݁ ˖ִ ࣪⚝₊ ⊹˚
-# hi there, i'm shreya 𐔌՞. .՞𐦯 ⠀
+# Greetings, Shreya here ⟢
 
 💻 **Building AI-powered products at the intersection of software engineering, design, and AI.**  
 
