@@ -7,7 +7,7 @@
            ˚★.𖥔 ݁ ˖ִ ࣪⚝₊ ⊹˚
 # hi there, i'm shreya 𐔌՞. .՞𐦯 ⠀
 
-💻 **SDE | React Developer | Backend (Python, FastAPI – in progress) | Exploring Cybersecurity**  
+💻 **Building AI-powered products at the intersection of software engineering, design, and AI.**  
 
 ---
 
