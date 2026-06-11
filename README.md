@@ -37,7 +37,7 @@
   
 ---
 
-‧₊˚ ☁️⋅♡𓂃 ࣪ ִֶָ☾.  *“Code, Coffee & Creativity keep me alive!”* ‧₊˚ ☁️⋅♡𓂃 ࣪ ִֶָ☾. �
+‧₊˚ ☁️⋅♡𓂃 ࣪ ִֶָ☾.  *“Code, Design & Creativity keeps me going!”* ‧₊˚ ☁️⋅♡𓂃 ࣪ ִֶָ☾. �
 
 ---
 ## ⟡ Socials:
