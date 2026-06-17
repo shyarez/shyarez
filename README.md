@@ -5,7 +5,7 @@
 ┊ ◦
 ★⋆      ┊ .  ˚
            ˚★.𖥔 ݁ ˖ִ ࣪⚝₊ ⊹˚
-# Greetings, Shreya here ⟢
+# Greetings, 𝚜𝚑𝚛𝚎𝚢𝚊 here ⟢
 
 **Building AI-powered products at the intersection of software engineering, design, and AI.**  
 
